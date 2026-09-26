@@ -1,3 +1,5 @@
+<img width="1240" height="840" alt="Front" src="https://github.com/user-attachments/assets/602a2e12-24ef-43b2-a12e-603bd5b51867" />
+
 🛡️ HWID Tool
 Welcome to the HWID Tool repository, a lightweight utility designed for hardware identification and much more.
 
