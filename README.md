@@ -36,7 +36,6 @@ Running Windows 10 / 11
 Need help? Join my Discord and open a ticket in #support.
 Im always happy to assist you.
 
-<p> <a href="https://discord.gg/N8RfW24Jn9"> <img src="https://img.shields.io/badge/💬%20Join%20Our%20Discord-Click%20Here-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="65"/> </a> </p>
 ⚠️ Disclaimer
 This tool is intended for educational and research purposes only.
 Any use of this software for malicious purposes, including bypassing anti-cheat systems or violating any terms of service, is strictly prohibited.
