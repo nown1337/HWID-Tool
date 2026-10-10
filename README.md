@@ -1,7 +1,7 @@
-# UPDATED 06.10.2026 
+# UPDATED 10.10.2026 
 <img width="1240" height="840" alt="Front" src="https://github.com/user-attachments/assets/602a2e12-24ef-43b2-a12e-603bd5b51867" />
 
-🛡️ HWID Tool
+🛡️ HWID spoofer Tool
 Welcome to the HWID Tool repository, a lightweight utility designed for hardware identification and much more.
 
 ⚠️ Disclaimer: This software is provided strictly for educational and research purposes only. The authors are not responsible for any misuse, including violations of third-party terms of service.
